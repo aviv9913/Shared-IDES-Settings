@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/avivShitrit/Test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/avivShitrit/mtm_hw3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Aviv9\Desktop" />
