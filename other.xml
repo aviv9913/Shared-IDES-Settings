@@ -1,0 +1,18 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.66997164" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/mtm_hw_3&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Program Files/Git/git-bash.exe&#10;C:/Program Files/Git/mingw64/bin/git.exe&#10;C:/Users/Aviv9/My Documents&#10;C:/Users/Aviv9/Desktop&#10;C:/Users/Aviv9/CLionProjects/TMP&#10;C:/Users/Aviv9/PycharmProjects/untitled&#10;C:/Program Files/JetBrains/PyCharm Community Edition 2018.3.3/skeletons&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1/hw1-eurovision/MTM-hw1-eurovision - Copy&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1/hw1-eurovision/MTM-hw1-eurovision/state.c&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1/hw1-eurovision/MTM-hw1-eurovision&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw0&#10;C:/Users/Aviv9/Desktop/MTM-hw1-eurovision&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1/MTM-hw1-map&#10;C:/Users/Aviv9/Desktop/TestMap-mtm&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1/mtm-hw1&#10;C:/Users/Aviv9/OneDrive - Technion/Semester 2/MTM/MTM - hw1/map.h&#10;C:/Documents and Settings" />
+    <property name="file.gist.reindex.count" value="341" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="last.imported.location" value="C:/Program Files/JetBrains/PyCharm Community Edition 2018.3.3/skeletons" />
+    <property name="lastTip" value="61" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="ValgrindSettings">
+    <option name="valgrindPath" value="/usr/local/bin/valgrind" />
+  </component>
+</application>
