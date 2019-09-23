@@ -1,8 +1,0 @@
-<application>
-  <component name="CPPToolchains" version="4">
-    <toolchains detectedVersion="5">
-      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\Aviv9\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\usr\local\bin\cmake" hostId="7418e0f0-6449-4ebf-8bd6-f206a6f44e4a" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" debuggerKind="BUNDLED_GDB" />
-    </toolchains>
-  </component>
-</application>
