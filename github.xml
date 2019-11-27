@@ -1,10 +1,13 @@
 <application>
   <component name="GithubAccounts">
-    <account id="91b0e4b2-79c7-4d07-ae67-1b4b67ae8dc4" name="aviv.shitrit@campus.technion.ac.il">
+    <account id="04513a3c-cce5-43c9-9858-020d992c1fd4" name="aviv9913@gmail.com">
       <server host="github.com" />
     </account>
-    <account id="e608f068-73d2-486c-b5d2-01e7340b9355" name="aviv9913@gmail.com">
+    <account id="05bf4a42-1ca1-4e5b-992c-5d121220c2e5" name="aviv.shitrit@campus.technion.ac.il">
       <server host="github.com" />
     </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
